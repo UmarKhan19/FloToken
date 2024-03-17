@@ -19,7 +19,7 @@ module.exports = {
       accounts: [process.env.PRIVATE_KEY],
       url: "https://scroll-testnet-public.unifra.io",
     },
-    fantom: {
+    ftmTestnet: {
       accounts: [process.env.PRIVATE_KEY],
       url: "https://fantom-testnet.public.blastapi.io",
     },
